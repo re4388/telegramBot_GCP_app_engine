@@ -1,0 +1,19 @@
+{
+  "name": "deploy_telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-get-json": "^4.0.0",
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.27.0",
+    "slimbot": "^4.9.0"
+  }
+}
